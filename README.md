@@ -2,8 +2,10 @@
 - 👀 I’m interested in Web-Dev
 - 🌱 I’m currently Working on Framework Tools
 - 💞️ I’m looking to collaborate on Open Source 
-- 📫 You Can reach through my LinkedIn Profile 
-- ⚡ Fun fact: I am Curious in learning and Exploring new Techniques in Technical World
+- 🖇️ <a href="https:///www.linkedin.com/in/harshraj1709" target="_blank" style="color: #0077b5; text-decoration: none; font-weight: bold;">
+    Connect with Me on LinkedIn
+</a>
+- 📥 <a href="raj.harsh0123456@gmail.com"> Email Us</a>
 
 <!---
 harshraj09/harshraj09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
