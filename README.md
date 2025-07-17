@@ -1,7 +1,14 @@
+<h1 align="center">Hi 👋, I'm Harsh Raj Singh Rathore</h1>
 
-# 👋 Hello, I'm Harsh Raj Singh Rathore
+<p align="center">
+  <img src="https://img.shields.io/badge/-⚡_Building-blue?style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/-🌱_Learning-success?style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/-🤝_Collaborating-yellow?style=for-the-badge&labelColor=black">
+</p>
 
-🚀 Full Stack Developer | Java + MERN Enthusiast | Passionate Builder
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MongoDB;Love+Clean+Code+%26+Creative+UIs;Open+Source+Contributor&font=Fira+Code&center=true&width=440&height=50&color=00FEEF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -34,7 +41,7 @@
 
 > 🖼️ Here's what powers my projects
 
-![Tech Skills](Harsh_Tech_Skills.png)
+![Tech Skills](https://raw.githubusercontent.com/harshraj09/harshraj09/main/Harsh_Tech_Skills.png)
 
 ---
 
@@ -53,4 +60,3 @@
 
 ---
 
-🧠 “Great software is built with obsession to details and passion to improve.”
